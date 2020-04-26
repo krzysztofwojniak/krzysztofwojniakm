@@ -6,7 +6,7 @@ pythnon
 
 
 #technologies
--GIT v2.20
--Pycharm v2018.3.5.
+-GIT 2.20
+-Pycharm 2020
 -Python 3.7
 
